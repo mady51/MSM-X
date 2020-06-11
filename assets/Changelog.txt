@@ -1,3 +1,33 @@
+**MSM Xtended XQ Release-v10.0 Changelogs**
+* Merged June security Patch r39
+* Release version bump to V10.0
+* Switched to Launcher3
+* Introduce Theme Tile 
+* Added QsLabel Tint Styles
+* Added QS Random Tint Tiles
+* Added QS Disco Tiles
+* Added Powermenu Background Filter
+* Added Hide Apps From Recents
+* Added Gesture Anywhere
+* Added QS header styles
+* Added back AOSP Lockscreen Clocks
+* Added 3 New AOSP Lockscreen Clocks (just kanged)
+* Adapted font & color options for new AOSP LS Clocks
+* Added QS header datausage ability to show daily/monthly data usage
+* Added Option for QsBattery Location
+* Added hotspot setting to allow VPN upstreams
+* Added Screen RefreshRate (Supporting Devices)
+* Added New Volume Sliders
+* Added SmartPixel Tile
+* Added QS Bottom Gradient Style
+* Added QS Footer Warning Toggle
+* Switched to Stichimage longshot
+* Fixed MultiDevices Ringtone
+* Moved All QS Theming to Theme Options
+* Upgraded FOD to 1.1
+* Updated Some prebuilts
+* Misc changes, bug fixes, and optimizations. Look in the changelog in About Phone section
+
 **MSM Xtended XQ Release-v8.0 Changelogs**
 * Fixed DC Dimming
 * Added DC Dimming QS Tile
